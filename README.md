@@ -13,7 +13,8 @@ sensitivity_met_data.txt:
 9. Rnet - Net surface radiation in W/m^2
 
 
-The goal is to estimate Rnet.
+The goal is to estimate Rnet. 
+Assumption is that tiff files contain information related to Rnet.
 
 Simple perceptron:
 https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/
