@@ -12,6 +12,9 @@ sensitivity_met_data.txt:
 8. F_1_s_g_1477 - Wind speed in m/s
 9. Rnet - Net surface radiation in W/m^2
 
+
+The goal is to estimate Rnet.
+
 Simple perceptron:
 https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/
 
