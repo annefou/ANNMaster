@@ -1,5 +1,5 @@
 ###################################SENSITIVITY ANALYSIS###################################
-sensitivity_met_data <- read.table("sensitivity_met_data.txt", sep=" ", header=TRUE)
+sensitivity_met_data <- read.table("../data/sensitivity_met_data.txt", sep=" ", header=TRUE)
 
 print(summary(sensitivity_met_data))
 
