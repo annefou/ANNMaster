@@ -23,10 +23,13 @@ Free Datasets:
 https://archive.ics.uci.edu/ml/datasets.html
 
 First test to make:
-2. Rl_downwell - Longwave incoming radiation in W/m^2
-4. Rs_downwell - Shortwave incoming radiation in W/m^2
+
+- Rl_downwell - Longwave incoming radiation in W/m^2
+- Rs_downwell - Shortwave incoming radiation in W/m^2
+
 And possibly add:
-7. D_g_1477 - Wind direction in degree
-8. F_1_s_g_1477 - Wind speed in m/s
+
+- D_g_1477 - Wind direction in degree
+- F_1_s_g_1477 - Wind speed in m/s
 
 On site: 10-20 August.
